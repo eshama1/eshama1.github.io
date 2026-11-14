@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Shama;Ethan;;;
+FN:Ethan Shama
+TITLE:Distributed AI Systems & HPC Engineer
+ORG:Queen's University;CAESAR Lab
+EMAIL;TYPE=WORK:ethan.shama@queensu.ca
+TEL;TYPE=CELL:+1-416-262-6658
+URL:https://ca.linkedin.com/in/ethan-shama-389229220
+ADR;TYPE=WORK:;;Kingston;ON;;;Canada
+END:VCARD
